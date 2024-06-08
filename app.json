@@ -1,6 +1,6 @@
 {
     "name": "𝗔𝗕𝗨 𝗜𝗔𝗡",
-    "description": " سورس ميوزك ابو ايان مطور اخر اصدار من قبل 𝗔𝗕𝗨 𝗜𝗔𝗡 .",
+    "description": " 🎩🪄 سورس ميوزك ابو ايان مطور اخر اصدار   .",
     "logo": "https://te.legra.ph/file/b7bb613b2ff3ffcc01e38.jpg",
     "keywords": [
     "python3",
@@ -38,7 +38,7 @@
         "required": true
       },
       "STRING_SESSION": {
-        "description": "A Pyrogram v2 String Session from @BRANDEDSTRINGSESSION_BOT on Telegram.",
+        "description": "A Pyrogram String Session from @FreedomLoBoT on Telegram.",
         "value": "",
         "required": true
       },
